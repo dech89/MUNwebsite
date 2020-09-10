@@ -1,0 +1,13 @@
+<span id="a">dchicasduena@garfield.cs.mun.ca</span>:<span id="b">~</span><span id="c">$</span> cd dchicasduena/<!-- kjsdfhkjdhsfkjdshfkj -->About_David
+<span id="a">dchicasduena$garfield.cs.mun.ca</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->david.txt<br/><br/>
+Hey everyone :) <span id="k">"Human potential for evolution is limitless" - Isaac Netero.</span> <!-- sjkfhskjf -->
+
+My name is David.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>I am a second year student at MUN currently studying Computer Science. I am from El Salvador and have been living in St. John's for around a year now.</p>
+<p>I like computers, movies, hockey, and some good jams, so I'll leave a link to my Spotify down below.</p> <!-- ksjdokhdfgdufdfkjhfkjahdfkjhafkjhakf -->
+<p> I found the code for this in CodeNerve, so the link is right here. <a href="https://github.com/CodeNerve/CodeNerve.github.io/blob/master/CodeNerve.txt"> CodeNerve</a>.</p><!-- kjdhjhgdgldjhgdwtoiewotwotjdfkjdfffsf -->
+<p>I am currently doing Comp 2001/02/03 and Math 1001, if you want to link up to study or something. <br><br><br> Some pretty cool computer science projects. <a href="https://youtu.be/xaazUgEKuVA"> Right Here</a>.</p><!-- hsdgfhjfkdjhfkjsdhfkjdshfkjsdhfkjsdhkfjhdskjfhksdjhfkdsj -->
+<p> I'll link some of my social media things here: <br> <a href="https://www.instagram.com/dech_89/">Instagram</a> <br> <a href="https://open.spotify.com/playlist/1vlHPVJ5UXvIJduXWbjfaI?si=xfKnec9qSxOiIEEltMNKvQ">Spotify</a> and <br> <a href="www.linkedin.com/in/davidchicas">LinkedIn</a>.</p>
+
+You can also send me an email if you need anything<!-- slightdelayhere-->, feel free to send me an email at dchicasduena@mun.ca<!-- longlonglongcomment -->
+
+<p>See you! :D</p>
